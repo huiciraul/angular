@@ -1,0 +1,58 @@
+.about{
+    color: #111;
+ }
+ .about{
+    margin-top: 5.5%;
+    color: #FFFFFF;
+ }
+ .about{
+    color: #111;
+ }
+ .blockquote-footer{
+     color: rgb(4,66,122) !important;
+ }
+ .card.h-100:hover,
+ .card.text-center.h-10.col-xl-6:hover{
+    color: #111;
+    background: rgb(227,234,242);
+    background: -moz-radial-gradient(circle, rgba(227,234,242,1) 13%, rgba(194,219,207,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(227,234,242,1) 13%, rgba(194,219,207,1) 100%);
+    background: radial-gradient(circle, rgba(227,234,242,1) 13%, rgba(194,219,207,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e3eaf2",endColorstr="#c2dbcf",GradientType=1);
+    border-color: #0e76a8;
+    transform: translateY(-3px) scale(1.05);
+ }
+ .card-title.principal
+ {
+    color: #FFFFFF !important;
+ }
+ .card.col-10.text-center{
+    border-color: #0e76a8;
+    background: rgb(4,66,122);
+    background: -moz-radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+    background: radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#04427a",endColorstr="#000000",GradientType=1);
+ 
+ }
+ 
+ .card.text-center.h-10.col-xl-6,
+ .card.col-8.conocimientos{
+    border-color: #0e76a8;
+    background: rgb(4,66,122);
+    background: -moz-radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+    background: radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#04427a",endColorstr="#000000",GradientType=1);
+    color: #FFFFFF;
+ }
+.text-center.col-xxl-3.col-xl-6.mt-5.pt-4:hover{
+    border-color: #0e76a8;
+    transform: translateY(-3px) scale(1.05);
+}
+.btn:hover{
+    transform: translateY(-3px) scale(1.05);
+ }
+ .col-xxl-6{
+   margin-top: 2.5rem;
+ }

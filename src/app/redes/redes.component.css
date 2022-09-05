@@ -1,0 +1,35 @@
+i.fa-brands.fa-whatsapp.fa-2xl:hover{
+    color: green;
+ }
+ .fa-brands.fa-instagram.fa-2xl:hover{
+ color:#d6249f ;
+ }
+ i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color:#0e76a8;
+ }
+ .form-control-plaintext{
+    color: #FFFFFF !important;
+ }
+ .modal{
+    --bs-modal-bg:rgb(4,66,122,1) !important;
+ }
+ .modal-open{
+    color: #FFFFFF;
+ }
+ /*modificamos la caja que envolvia a los iconos*/
+ .list-group{
+    --bs-list-group-bg: transparent !important;
+    --bs-list-group-border-color: none !important;
+ }
+ /*le doy el color blanco a los iconos para que se puedan apreciar mejor*/
+ i.fa-brands.fa-whatsapp.fa-2xl,
+ i.fa-brands.fa-instagram.fa-2xl,
+ i.fa-brands.fa-linkedin.fa-2xl,
+ i.fa-solid.fa-user-lock.fa-2xl,
+ i.fa-solid.fa-user.fa-2xl{
+    color: #FFFFFF;
+ }
+ /*edito la lista que contiene a las redes sociales*/
+ .list-group.list-group-horizontal ul li:hover{
+    transform: translateY(-3px) scale(1.05);
+ }

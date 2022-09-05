@@ -1,0 +1,15 @@
+
+.card.text-center.h-10.col-xl-6,
+.card.col-8.conocimientos{
+   border-color: #0e76a8;
+   background: rgb(4,66,122);
+   background: -moz-radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+   background: -webkit-radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+   background: radial-gradient(circle, rgba(4,66,122,1) 0%, rgba(0,0,0,1) 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#04427a",endColorstr="#000000",GradientType=1);
+   color: #FFFFFF;
+}
+.card.col-8.conocimientos,
+.row.mt-3{
+   margin:1%;
+}
