@@ -10,7 +10,10 @@ import { PresentacionComponent } from './presentacion/presentacion.component';
 import { SkillsComponent } from './skills/skills.component';
 import { CompetenciasComponent } from './competencias/competencias.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
-import { ErrorComponent } from './error/error.component';
+import { IntroComponent } from './intro/intro.component';
+import { NavbardashboardComponent } from './navbardashboard/navbardashboard.component';
+import { LogoutComponent } from './logout/logout.component';
+import { RedesdashboardComponent } from './redesdashboard/redesdashboard.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +25,10 @@ import { ErrorComponent } from './error/error.component';
     SkillsComponent,
     CompetenciasComponent,
     DashboardComponent,
-    ErrorComponent
+    IntroComponent,
+    NavbardashboardComponent,
+    LogoutComponent,
+    RedesdashboardComponent,
   ],
   imports: [
     BrowserModule,
